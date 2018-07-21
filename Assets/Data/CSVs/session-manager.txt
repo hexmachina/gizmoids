@@ -1,0 +1,321 @@
+
+	{
+		"Game":{
+			"initialParts": 15,
+			"Debug": false,
+			"Tutorial": true
+		},
+		"Tutorial":[
+			{
+				"header":"Controls",
+				"description":""
+			},
+			{
+				"header":"Scraps",
+				"description":"Accumulate scraps and use them to expand your ship."
+			},
+			{
+				"header":"Addons",
+				"description":"Press and Drag an Addon over the desired side of the ship."
+			},
+			{
+				"header":"Collectibles",
+				"description":"Press on Collectibles to acquire more parts and other bonuses."
+			},
+			{
+				"header":"Small Parts",
+				"description":"Small Parts will drift toward your ship and be dropped by enemies. These parts are too small to collect yourself. Construct Mega Magnets to absorb nearby Small Parts."
+			}
+			
+		],
+		"Gizmoids":[
+			{
+				"id": 0,
+				"label": "Mega Magnet",
+				"nodeName": "Scrapper",
+				"life": 50,
+				"power": 0,
+				"price": 10,
+				"cooldownTicker":144,
+				"cooldown": 144,
+				"initialFire":0,
+				"trigger": 0,
+				"description":"Mega Magnet and Small Parts are meant to be together. Point it in the right direction and the Mega Magnet will collect any nearby Small Parts in its path."
+			},
+			{
+				"id": 1,
+				"label": "Atomic Toaster",
+				"nodeName": "Toaster",
+				"life": 100,
+				"power": 15,
+				"price": 20,
+				"cooldownTicker":0,
+				"cooldown": 120,
+				"initialFire":30,
+				"trigger": 30,
+				"description":"Greatest thing since sliced bread! Defend yourself from attacking enemies with atomically fused toast. Aim your Atomic Toaster at the opposition and let the toast do the rest."
+			},
+			{
+				"id": 2,
+				"label": "Bouncer",
+				"nodeName": "Bumper",
+				"life": 150,
+				"power": 0,
+				"price": 5,
+				"cooldownTicker":0,
+				"cooldown": 192,
+				"initialFire":0,
+				"trigger": 0,
+				"description":"When you’re this popular, you need some crowd control. Use Bouncer to keep some distance from attacking enemies."
+			},
+			{
+				"id": 3,
+				"label": "Generator",
+				"nodeName": "Generator",
+				"life": 100,
+				"power": 0,
+				"price": 20,
+				"cooldownTicker":0,
+				"cooldown": 120,
+				"initialFire":0,
+				"trigger": 240,
+				"description":"Take matter into your own hands. The Generator will produce Small Parts ready to be collected."
+			},
+			{
+				"id": 4,
+				"label": "Repair",
+				"nodeName": "Repair",
+				"life": 100,
+				"power": 0,
+				"price": 10,
+				"cooldownTicker":0,
+				"cooldown": 120,
+				"initialFire":0,
+				"trigger": 240,
+				"description":"Time for a Tune up. Place the Repair Addon above your ship or addon to make it work good as new."
+			},
+			{
+				"id": 5,
+				"label": "Ticker",
+				"nodeName": "TickerNode",
+				"life": 75,
+				"power": 0,
+				"price": 10,
+				"cooldownTicker":144,
+				"cooldown": 144,
+				"initialFire":0,
+				"trigger": 432,
+				"description":""
+			},
+{
+				"id": 6,
+				"label": "Remove Addon",
+				"nodeName": "Remove",
+				"life": 0,
+				"power": 0,
+				"price": -1,
+				"cooldownTicker":0,
+				"cooldown": 0,
+				"initialFire":0,
+				"trigger": 0,
+				"description":"The Remove Addon tool demolishes unused or unwanted Addons from your ship."
+			}
+		],
+		"Enemies": [
+			{
+				"id": 0,
+				"label": "Large Debris",
+				"enemyName": "Debris",
+				"life": 100,
+				"power": 50,
+				"speed": 0.2,
+				"dropAmount": 5,
+				"rarity":1,
+				"description":""
+			},
+			{
+				"id": 1,
+				"label": "Small Debris",
+				"enemyName": "Speeder",
+				"life": 50,
+				"power": 20,
+				"speed": 0.4,
+				"dropAmount": 2,
+				"rarity":0.7,
+				"description":""
+			},
+			{
+				"id": 2,
+				"label": "Obstacle",
+				"enemyName": "Obstacle",
+				"life": 120,
+				"power": 0,
+				"speed": 0,
+				"rarity": 0.1,
+				"dropAmount": 7,
+				"description":""
+			},
+			{
+				"id": 3,
+				"label": "Dueler",
+				"enemyName": "Dueler",
+				"life": 80,
+				"power": 60,
+				"speed": 0.2,
+				"rarity":0.3,
+				"dropAmount": 0,
+				"description":""
+			},
+			{
+				"id": 4,
+				"label": "Monoshot",
+				"enemyName": "Monoshot",
+				"life": 25,
+				"power": 20,
+				"speed": 0.3,
+				"rarity":-1,
+				"dropAmount": 3,
+				"description":""
+			},
+			{
+				"id": 5,
+				"label": "Ticker",
+				"enemyName": "Ticker",
+				"life": 120,
+				"power": 80,
+				"speed": 0.25,
+				"rarity":0.2,
+				"dropAmount": 3,
+				"description":""
+			}
+		],
+		"Levels": [
+			{
+				"id" : 0,
+				"initialParts": 15,
+				"medal" : {"Bronze":1000, "Silver":2500, "Gold":5000},
+				"nodes" : ["Toaster"],
+				"enemies" : [{"name":"Debris", "min":-1, "max":-1}],
+				"collect" : 120,
+				"scrap" : -1,
+				"tutorial" : ["Controls", "Scraps", "Addons", "Collectibles", "Atomic Toaster"],
+				"guide" : [
+					{
+						"message": {"type":"none", "header":"", "body":""},
+						"pauseSession" : false,
+						"sequential" : false,
+						"command" : "LockPlayer"
+					},
+					{
+						"message": {"type":"line", "header":"Press on the Collectible to earn scraps.", "body":""},
+						"pauseSession" : true,
+						"sequential" : true,
+						"command" : "Collectible"
+					},
+					{
+						"message": {"type":"line", "header":"Press and drag the Atomic Toaster to your ship.", "body":""},
+						"pauseSession" : true,
+						"sequential" : true,
+						"command" : "NodeButton"
+					},
+					{
+						"message": {"type":"line", "header":"Press and drag your ship to aim.", "body":""},
+						"pauseSession" : true,
+						"sequential" : true,
+						"command" : "FirstEnemy"
+					}
+				],
+				"acts" : [{"duration":12, "routine": false, "delay":0, "cluster":0 },
+						 {"duration":50, "routine": true, "delay":8, "cluster":2 },
+						 {"duration":12, "routine": false, "delay":0, "cluster":5 }]
+			},
+			{
+				"id" : 1,
+				"initialParts": 15,
+				"medal" : {"Bronze":1000, "Silver":2500, "Gold":5000},
+				"nodes" : ["Scrapper", "Toaster"],
+				"enemies" : [{"name":"Debris", "min":-1, "max":-1}],
+				"collect" : 720,
+				"scrap" : 144,
+				"tutorial" : ["Small Parts", "Mega Magnet"],
+				"guide" : [
+					{
+						"message": {"type":"line", "header":"Press and drag the Mega Magnet to your ship.", "body":""},
+						"pauseSession" : true,
+						"sequential" : true,
+						"command" : "MegaMagnet"
+					},
+					{
+						"message": {"type":"line", "header":"Point the Mega Magnet at the Small Parts to start collecting.", "body":""},
+						"pauseSession" : true,
+						"sequential" : true,
+						"command" : "SmallParts"
+					}
+				],
+				"acts" : [{"duration":20, "routine": false, "delay":0, "cluster":0 },
+						 {"duration":60, "routine": true, "delay":8, "cluster":4 },
+						 {"duration":20, "routine": false, "delay":0, "cluster":8 }]
+			},
+			{
+				"id" : 2,
+				"initialParts": 15,
+				"medal" : {"Bronze":1000, "Silver":2500, "Gold":5000},
+				"nodes" : ["Scrapper", "Toaster", "Bumper", "Remove"],
+				"enemies" : [{"name":"Debris", "min":-1, "max":-1}, {"name":"Speeder", "min":5, "max":10}],
+				"collect" : 720,
+				"scrap" : 192,
+				"tutorial" : ["Bouncer", "Remove Addon"],
+				"guide" : [
+						{
+							"message": {"type":"line", "header":"Remove the damaged Addon from your ship with the Remove Tool", "body":""},
+							"pauseSession" : true,
+							"sequential" : true,
+							"command" : "Remove"
+						}
+					],
+				"acts" : [{"duration":20, "routine": false, "delay":0, "cluster":0 },
+						 {"duration":60, "routine": true, "delay":8, "cluster":4 },
+						 {"duration":60, "routine": true, "delay":5, "cluster":6 },
+						 {"duration":20, "routine": false, "delay":0, "cluster":10 }]
+			},
+			{
+				"id" : 3,
+				"initialParts": 25,
+				"medal" : {"Bronze":1000, "Silver":2500, "Gold":5000},
+				"nodes" : ["Scrapper", "Toaster", "Bumper", "Repair", "Remove"],
+				"enemies" : [{"name":"Debris", "min":-1, "max":-1}, {"name":"Speeder", "min":5, "max":10}, {"name":"Ticker", "min":3, "max":6}],
+				"collect" : 720,
+				"scrap" : 192,
+				"tutorial" : ["Repair"],
+				"guide" : [
+						{
+							"message": {"type":"line", "header":"Use the Repair Addon to fix your damaged ship.", "body":""},
+							"pauseSession" : true,
+							"sequential" : true,
+							"command" : "Repair"
+						}
+						],
+				"acts" : [{"duration":20, "routine": false, "delay":0, "cluster":0 },
+						 {"duration":60, "routine": true, "delay":8, "cluster":4 },
+						 {"duration":30, "routine": true, "delay":6, "cluster":4 },
+						 {"duration":30, "routine": true, "delay":5, "cluster":5 },
+						 {"duration":20, "routine": false, "delay":0, "cluster":10 }]
+			},
+			{
+				"id" : 4,
+				"initialParts": 15,
+				"medal" : {"Bronze":1000, "Silver":2500, "Gold":5000},
+				"nodes" : ["Scrapper", "Toaster", "Bumper", "Repair", "Generator", "Remove"],
+				"enemies" : [{"name":"Debris", "min":-1, "max":-1}, {"name":"Speeder", "min":-1, "max":-1}, {"name":"Dueler", "min":6, "max":6}],
+				"collect" : 720,
+				"scrap" : 192,
+				"tutorial" : [],
+				"guide" : [],
+				"acts" : [{"duration":20, "routine": false, "delay":0, "cluster":0 },
+						 {"duration":60, "routine": true, "delay":8, "cluster":4 },
+						 {"duration":30, "routine": true, "delay":6, "cluster":4 },
+						 {"duration":30, "routine": true, "delay":5, "cluster":5 },
+						 {"duration":20, "routine": false, "delay":0, "cluster":10 }]
+			}
+		]
+	}

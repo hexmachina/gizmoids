@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: bc3bd157631ab38438eeca870bca8aa6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SPT_Frog_Fan
+    21300002: SPT_Frog_TopJaw
+    21300004: SPT_Frog_Arm_R
+    21300006: SPT_Frog_Arm_L
+    21300008: SPT_Frog_Foot_R
+    21300010: SPT_Frog_Foot_L
+    21300012: SPT_Frog_BottomJaw
+    21300014: SPT_Frog_HindLegs
+    21300016: SPT_Frog_Base
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPT_Frog_Fan
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 425
+        width: 85
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5137299, y: 0.5618883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc72128173d0e1448b6174272a5b0cb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPT_Frog_TopJaw
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 372
+        width: 308
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8f38c9924f02d4aa3f9144bdf48ede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPT_Frog_Arm_R
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 371
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3653415, y: 0.7563948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf7c684fe6d85248a764a3f93bce457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPT_Frog_Arm_L
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 371
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6346582, y: 0.8011711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843d4c04357edcc459b316136edddcbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPT_Frog_Foot_R
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 308
+        width: 57
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2901376, y: 0.8624896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3babd08df8ffc2542a2ba5716eae6208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPT_Frog_Foot_L
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 311
+        width: 57
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6740321, y: 0.8536479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea393df4bf346e4ba857998d4c7216b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPT_Frog_BottomJaw
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 283
+        width: 257
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8978474f7245a4c418b606b5ea85c01d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPT_Frog_HindLegs
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 188
+        width: 291
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4922125, y: 0.8415444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e4fb094288de04e9bd9ae35b4c7066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPT_Frog_Base
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 24
+        width: 266
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914af55513423274abe774fdb993b00c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 368cbf92da2596c43b7779cd2bd9fecc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

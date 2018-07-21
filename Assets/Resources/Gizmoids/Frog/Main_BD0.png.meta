@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: e4b270ad4eea1954c986b752c55c0f4a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SPT_Frog_Fan
+    21300002: SPT_Frog_TopJaw
+    21300004: SPT_Frog_Arm_R
+    21300006: SPT_Frog_Arm_L
+    21300008: SPT_Frog_Foot_R
+    21300010: SPT_Frog_Foot_L
+    21300012: SPT_Frog_BottomJaw
+    21300014: SPT_Frog_HindLegs
+    21300016: SPT_Frog_Base
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SPT_Frog_Fan
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 425
+        width: 85
+        height: 66
+      alignment: 9
+      pivot: {x: .51372987, y: .561888278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Frog_TopJaw
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 372
+        width: 308
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Frog_Arm_R
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 371
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: .365341485, y: .756394804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Frog_Arm_L
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 371
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: .634658217, y: .801171064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Frog_Foot_R
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 308
+        width: 57
+        height: 33
+      alignment: 9
+      pivot: {x: .290137589, y: .862489641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Frog_Foot_L
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 311
+        width: 57
+        height: 33
+      alignment: 9
+      pivot: {x: .674032092, y: .853647888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Frog_BottomJaw
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 283
+        width: 257
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Frog_HindLegs
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 188
+        width: 290
+        height: 81
+      alignment: 9
+      pivot: {x: .492212504, y: .841544449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Frog_Base
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 24
+        width: 266
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 7119ee2990c150d4db7bd2a144096882
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atomic-toast_0
+    21300002: atomic-toast_1
+    21300004: atomic-toast_2
+    21300006: atomic-toast_3
+    21300008: atomic-toast_4
+    21300010: atomic-toast_5
+    21300012: atomic-toast_6
+    21300014: atomic-toast_7
+    21300016: atomic-toast_8
+    21300018: atomic-toast_9
+    21300020: atomic-toast_10
+    21300022: atomic-toast_11
+    21300024: atomic-toast_12
+    21300026: atomic-toast_13
+    21300028: atomic-toast_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 54
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: atomic-toast_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 211
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 211
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 166
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 166
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 121
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 121
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 76
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atomic-toast_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 31
+        width: 35
+        height: 45
+      alignment: 2
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

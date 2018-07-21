@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 326d91df0a25e9849ba31a5549bf1d94
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Scrap Icon_0
+    21300002: Scrap Icon_1
+    21300004: Scrap Icon_2
+    21300006: Scrap Icon_3
+    21300008: Scrap Icon_4
+    21300010: Scrap Icon_5
+    21300012: Scrap Icon_6
+    21300014: Scrap Icon_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Scrap Icon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Scrap Icon_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 413
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Scrap Icon_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Scrap Icon_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 309
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Scrap Icon_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Scrap Icon_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 179
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Scrap Icon_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Scrap Icon_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 42
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

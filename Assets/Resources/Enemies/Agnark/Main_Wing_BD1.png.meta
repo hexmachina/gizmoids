@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 0ce60eb8dc18e8648872b6f21ba8ed98
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SPT_Agnark_Wing_01
+    21300002: SPT_Agnark_Wing_02
+    21300004: SPT_Agnark_Wing_03
+    21300006: SPT_Agnark_Wing_04
+    21300008: SPT_Agnark_Wing_05
+    21300010: SPT_Agnark_Wing_06
+    21300012: SPT_Agnark_Wing_07
+    21300014: SPT_Agnark_Wing_08
+    21300016: SPT_Agnark_Wing_09
+    21300018: SPT_Agnark_Wing_10
+    21300020: SPT_Agnark_Wing_11
+    21300022: SPT_Agnark_Wing_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SPT_Agnark_Wing_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 312
+        height: 270
+      alignment: 9
+      pivot: {x: .0942131504, y: .112640403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Agnark_Wing_02
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 810
+        width: 312
+        height: 270
+      alignment: 9
+      pivot: {x: .0942131504, y: .112640403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Agnark_Wing_03
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 810
+        width: 312
+        height: 270
+      alignment: 9
+      pivot: {x: .0942131504, y: .112640403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Agnark_Wing_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 312
+        height: 270
+      alignment: 9
+      pivot: {x: .0942131504, y: .112640403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Agnark_Wing_05
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 540
+        width: 312
+        height: 270
+      alignment: 9
+      pivot: {x: .0942131504, y: .112640403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Agnark_Wing_06
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 540
+        width: 312
+        height: 270
+      alignment: 9
+      pivot: {x: .0942131504, y: .112640403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Agnark_Wing_07
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 312
+        height: 270
+      alignment: 9
+      pivot: {x: .0942131504, y: .112640403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Agnark_Wing_08
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 270
+        width: 312
+        height: 270
+      alignment: 9
+      pivot: {x: .0942131504, y: .112640403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Agnark_Wing_09
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 270
+        width: 312
+        height: 270
+      alignment: 9
+      pivot: {x: .0942131504, y: .112640403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Agnark_Wing_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 312
+        height: 270
+      alignment: 9
+      pivot: {x: .0942131504, y: .112640403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Agnark_Wing_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 312
+        height: 270
+      alignment: 9
+      pivot: {x: .0942131504, y: .112640403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Agnark_Wing_12
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 312
+        height: 270
+      alignment: 9
+      pivot: {x: .0942131504, y: .112640403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

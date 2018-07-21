@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 3633693b07a9b41a8abf3c92b19a92dc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rotating scrap
+    21300002: rotating scrap_0
+    21300004: rotating scrap_1
+    21300006: rotating scrap_2
+    21300008: rotating scrap_3
+    21300010: rotating scrap_4
+    21300012: rotating scrap_5
+    21300014: rotating scrap_6
+    21300016: rotating scrap_7
+    21300018: rotating scrap_8
+    21300020: rotating scrap_9
+    21300022: rotating scrap_10
+    21300024: rotating scrap_11
+    21300026: rotating scrap_12
+    21300028: rotating scrap_13
+    21300030: rotating scrap_14
+    21300032: rotating scrap_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rotating scrap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 396
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 396
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 396
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 396
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 280
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 280
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 280
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 280
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 164
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 164
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 164
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 164
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rotating scrap_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 98
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

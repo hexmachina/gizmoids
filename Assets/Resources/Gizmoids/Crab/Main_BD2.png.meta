@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 5901814d81faa6d40aa4dacc28e9287b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SPT_Crab_Magnet_R
+    21300002: SPT_Crab_Magnet_L
+    21300004: SPT_Crab_ForeArm_R
+    21300006: SPT_Crab_ForeArm_L
+    21300008: SPT_Crab_UpArm_R
+    21300010: SPT_Crab_UpArm_L
+    21300012: SPT_Crab_MainBody
+    21300014: SPT_Crab_EyeSocket
+    21300016: SPT_Crab_Legs
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SPT_Crab_Magnet_R
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 393
+        width: 83
+        height: 82
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Crab_Magnet_L
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 387
+        width: 84
+        height: 83
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Crab_ForeArm_R
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 274
+        width: 71
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Crab_ForeArm_L
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 268
+        width: 73
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Crab_UpArm_R
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 169
+        width: 50
+        height: 58
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Crab_UpArm_L
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 163
+        width: 50
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Crab_MainBody
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 44
+        width: 140
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Crab_EyeSocket
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 116
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Crab_Legs
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 19
+        width: 141
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 13bab34c401750640b8985ca3b7e41d6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SPT_TimeMonkey_Hand_R
+    21300002: SPT_TimeMonkey_Hand_L
+    21300004: SPT_TimeMonkey_Tail_Top
+    21300006: SPT_TimeMonkey_Tail_Bottom
+    21300008: SPT_TimeMonkey_MainBody
+    21300010: SPT_TimeMonkey_Fez
+    21300012: SPT_TimeMonkey_Tassel
+    21300014: SPT_TimeMonkey_Face
+    21300016: SPT_TimeMonkey_Ball_R
+    21300018: SPT_TimeMonkey_Bell_L
+    21300020: SPT_TimeMonkey_Nose
+    21300022: SPT_TimeMonkey_MinuteHand
+    21300024: SPT_TimeMonkey_HourHand
+    21300026: SPT_TimeMonkey_Shoes
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SPT_TimeMonkey_Hand_R
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 275
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: .442600012, y: .26820001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_Hand_L
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 276
+        width: 49
+        height: 37
+      alignment: 9
+      pivot: {x: .533699989, y: .276800007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_Tail_Top
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 276
+        width: 50
+        height: 34
+      alignment: 9
+      pivot: {x: .114600003, y: .807600021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_Tail_Bottom
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 261
+        width: 75
+        height: 59
+      alignment: 9
+      pivot: {x: .869799972, y: .874100029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_MainBody
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 180
+        width: 154
+        height: 81
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_Fez
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 168
+        width: 56
+        height: 60
+      alignment: 9
+      pivot: {x: .458200008, y: .207499996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_Tassel
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 202
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: .239999995, y: .564899981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_Face
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 207
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_Ball_R
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 97
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_Bell_L
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 100
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_Nose
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 75
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_MinuteHand
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 35
+        height: 19
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_HourHand
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 49
+        width: 31
+        height: 20
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_TimeMonkey_Shoes
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 152
+        width: 168
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

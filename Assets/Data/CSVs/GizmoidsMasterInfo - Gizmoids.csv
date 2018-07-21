@@ -1,0 +1,11 @@
+ID,Order,Proper Name,Handle,Max Life,Price,Cooldown,Description,Utility,Utility Args,Ability Array
+0,0,Crabity,Crab,50,10,4,"Crabity is a pretty grumpy Gizmoid unless he gets his scrap. Point him in the right direction, and Crabity will collect any nearby small scrap in his path.",CollectScrap,AttractSpeed:3,
+1,1,Toasty,Toaster,100,20,5,Toasty is the greatest thing since sliced bread! Defend yourself from attacking enemies with atomically infused toast. Aim Toasty at the opposition and let the toast do the rest.,FireBullet,Power:10;Rate:0.45;Delay:0.55,
+2,2,Helius,Balloon,125,10,10,"Helius’ inflated ego doesn’t win him many friends, but it also keeps enemies away too! Point Helius in the direction of an incoming opponent and watch his bubbles burst.",RepelOnContact,Rate:8;RepelSpeed:5;RepelSpan:3,
+3,6,MacBaggins,Bagpipes,100,25,5,MacBaggins is a crotchety old timer who doesn’t like to be messed with. So point him at your enemy and he’ll assault them with a barrage of deadly Bagpipe stylings.,SoundWave,Power:7;Rate:0.4;Delay:0.883,
+4,4,Timey Tim,TimeMonkey,120,5,10,Timey Tim lets you take time into your own hands. Watch in awe as he literally stops time and space and gives you an opportunity to strike your opponents as they languish in a state of immobility.,FreezeTime,Duration:8;Delay:2,
+5,5,Flo,Healer,150,15,8,Flo is here and she’s going to make it all better. Just drag her to your broken Gizmoid and let her give them a tune-up.,RepairGizmoid,Duration:5,
+6,3,Rivets,Frog,75,20,5,Need to slow down your enemies? Rivets will encase them in bubbles created from his very own bubble-creator. ,FireBubble,Power:8;Rate:0.65;Delay:0.4,
+7,7,Tessy,Tesla,100,25,6,Need to shock your opponents into submission? Point Tessy at your enemies and let her attack them with crippling bursts of electricity.,None,,
+8,9,Ozone,Ozone,100,20,5,,None,,
+9,8,Gym & Argyle,GymArgyle,100,20,5,,None,,

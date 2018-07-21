@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 6f36f5c2c3f83874e849d51883f867c8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pointer01
+    21300002: pointer01_0
+    21300004: pointer01_1
+    21300006: pointer01_2
+    21300008: pointer01_3
+    21300010: pointer01_4
+    21300012: pointer01_5
+    21300014: pointer01_6
+    21300016: pointer01_7
+    21300018: pointer01_8
+    21300020: pointer01_9
+    21300022: pointer01_10
+    21300024: pointer01_11
+    21300026: pointer01_12
+    21300028: pointer01_13
+    21300030: pointer01_14
+    21300032: pointer01_15
+    21300034: pointer01_16
+    21300036: pointer01_17
+    21300038: pointer01_18
+    21300040: pointer01_19
+    21300042: pointer01_20
+    21300044: pointer01_21
+    21300046: pointer01_22
+    21300048: pointer01_23
+    21300050: pointer01_24
+    21300052: pointer01_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pointer01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3666
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3666
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 3666
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3666
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3236
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3236
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 3236
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_7
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3236
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2806
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2806
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_10
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2806
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_11
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2806
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2376
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2376
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_14
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2376
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_15
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2376
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1946
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1946
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_18
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1946
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_19
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1946
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1516
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1516
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer01_22
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1516
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

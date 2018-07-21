@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 8a8736d31655f214282b9a0643caeb18
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SPT_BubbleAnim_01
+    21300002: SPT_BubbleAnim_02
+    21300004: SPT_BubbleAnim_03
+    21300006: SPT_BubbleAnim_04
+    21300008: SPT_BubbleAnim_05
+    21300010: SPT_BubbleAnim_06
+    21300012: SPT_BubbleAnim_07
+    21300014: SPT_BubbleAnim_08
+    21300016: SPT_BubbleAnim_09
+    21300018: SPT_BubbleAnim_10
+    21300020: SPT_BubbleAnim_11
+    21300022: SPT_BubbleAnim_12
+    21300024: SPT_BubbleAnim_13
+    21300026: SPT_BubbleAnim_14
+    21300028: SPT_BubbleAnim_15
+    21300030: SPT_BubbleAnim_16
+    21300032: SPT_BubbleAnim_17
+    21300034: SPT_BubbleAnim_18
+    21300036: SPT_BubbleAnim_19
+    21300038: SPT_BubbleAnim_20
+    21300040: SPT_BubbleAnim_21
+    21300042: SPT_BubbleAnim_22
+    21300044: SPT_BubbleAnim_23
+    21300046: SPT_BubbleAnim_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SPT_BubbleAnim_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_02
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1020
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_03
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1020
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_04
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1020
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_06
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 816
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_07
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 816
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_08
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 816
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_09
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 612
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 612
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 612
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 408
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 408
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 408
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 204
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 204
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 204
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_BubbleAnim_24
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

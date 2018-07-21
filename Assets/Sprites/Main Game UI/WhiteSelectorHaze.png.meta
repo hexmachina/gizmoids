@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: a37fe51129dc3d24b931b8b1b27b2436
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WhiteSelectorHaze_0
+    21300002: WhiteSelectorHaze_1
+    21300004: WhiteSelectorHaze_2
+    21300006: WhiteSelectorHaze_3
+    21300008: WhiteSelectorHaze_4
+    21300010: WhiteSelectorHaze_5
+    21300012: WhiteSelectorHaze_6
+    21300014: WhiteSelectorHaze_7
+    21300016: WhiteSelectorHaze_8
+    21300018: WhiteSelectorHaze_9
+    21300020: WhiteSelectorHaze_10
+    21300022: WhiteSelectorHaze_11
+    21300024: WhiteSelectorHaze_12
+    21300026: WhiteSelectorHaze_13
+    21300028: WhiteSelectorHaze_14
+    21300030: WhiteSelectorHaze_15
+    21300032: WhiteSelectorHaze_16
+    21300034: WhiteSelectorHaze_17
+    21300036: WhiteSelectorHaze_18
+    21300038: WhiteSelectorHaze_19
+    21300040: WhiteSelectorHaze_20
+    21300042: WhiteSelectorHaze_21
+    21300044: WhiteSelectorHaze_22
+    21300046: WhiteSelectorHaze_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WhiteSelectorHaze_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3372
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_1
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3372
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_2
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3372
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_3
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3372
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_4
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3372
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_5
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 3372
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2648
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2648
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_8
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2648
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_9
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2648
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_10
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2648
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_11
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 2648
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1924
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_13
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1924
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_14
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1924
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_15
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1924
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_16
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1924
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_17
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 1924
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_19
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1200
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_20
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1200
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_21
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1200
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_22
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1200
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteSelectorHaze_23
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 1200
+        width: 601
+        height: 724
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

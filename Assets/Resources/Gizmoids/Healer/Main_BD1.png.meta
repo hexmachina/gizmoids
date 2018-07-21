@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: a48db74f6b03b8043b916cfdbe0bf847
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SPT_Healer_Hat
+    21300002: SPT_Healer_Base
+    21300004: SPT_Healer_Screen
+    21300006: SPT_Healer_Arm-R
+    21300008: SPT_Healer_Arm_L
+    21300010: SPT_Healer_Body
+    21300012: SPT_Healer_Paddle_R
+    21300014: SPT_Healer_Paddle_L
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SPT_Healer_Hat
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 388
+        width: 169
+        height: 92
+      alignment: 9
+      pivot: {x: .499900013, y: .145300001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Healer_Base
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 324
+        width: 219
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Healer_Screen
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 152
+        width: 203
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Healer_Arm-R
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 244
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: .456999987, y: .760399997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Healer_Arm_L
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 243
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: .575100005, y: .768999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Healer_Body
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 25
+        width: 210
+        height: 117
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Healer_Paddle_R
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 116
+        width: 59
+        height: 80
+      alignment: 9
+      pivot: {x: .184100002, y: .886799991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPT_Healer_Paddle_L
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 117
+        width: 59
+        height: 79
+      alignment: 9
+      pivot: {x: .815800011, y: .8495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

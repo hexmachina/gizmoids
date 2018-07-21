@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 209526f45f916044ca040c09bfea8bd5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Row_Base
+    21300002: Row_0
+    21300004: Row_2
+    21300006: Row_1
+    21300008: Row_4
+    21300010: Row_5
+    21300012: Row_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Row_Base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 116
+        height: 150
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Row_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 410
+        width: 185
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Row_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 396
+        width: 326
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Row_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 402
+        width: 256
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Row_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 466
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Row_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 226
+        width: 536
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Row_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 396
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

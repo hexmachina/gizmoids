@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 73b10285caa02534d9ebf647cd4f5155
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CHA-JoeMasterSheet03
+    21300002: JOE-FACE_OOHfront
+    21300004: JOE-FACE_OOHside
+    21300006: JOE-FACE_Happy
+    21300008: JOE-FACE_BONK
+    21300010: JOE-FACE_THINK
+    21300012: JOE-FACE_LAUGH
+    21300014: JOE-FACE_EXPLAIN
+    21300016: JOE-FACE_ANGRY
+    21300018: JOE-FACE_SCARED
+    21300020: JOE-FACE_WORRIED
+    21300022: JOE-ARM-low
+    21300024: JOE-HAND_right
+    21300026: JOE-BODY_POSE01
+    21300028: JOE-BODY_POSE02
+    21300030: JOE-ARM-up
+    21300032: JOE-HAND01
+    21300034: JOE-HAND02
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: JOE-FACE_OOHfront
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1471
+        width: 261
+        height: 529
+      alignment: 9
+      pivot: {x: .54692024, y: .115714811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-FACE_OOHside
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1438
+        width: 309
+        height: 562
+      alignment: 9
+      pivot: {x: .523779035, y: .2080089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-FACE_Happy
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 853
+        width: 297
+        height: 534
+      alignment: 9
+      pivot: {x: .640192389, y: .284430236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-FACE_BONK
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 864
+        width: 290
+        height: 521
+      alignment: 9
+      pivot: {x: .702695668, y: .217938036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-FACE_THINK
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1428
+        width: 293
+        height: 564
+      alignment: 9
+      pivot: {x: .692261159, y: .269841194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-FACE_LAUGH
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 836
+        width: 288
+        height: 577
+      alignment: 9
+      pivot: {x: .661581695, y: .258047551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-FACE_EXPLAIN
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 840
+        width: 314
+        height: 550
+      alignment: 9
+      pivot: {x: .632602572, y: .317420334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-FACE_ANGRY
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1431
+        width: 310
+        height: 561
+      alignment: 9
+      pivot: {x: .6659168, y: .251146942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-FACE_SCARED
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 825
+        width: 290
+        height: 584
+      alignment: 9
+      pivot: {x: .694249988, y: .256753683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-FACE_WORRIED
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1443
+        width: 305
+        height: 544
+      alignment: 9
+      pivot: {x: .612424135, y: .229863331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-ARM-low
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 107
+        width: 374
+        height: 182
+      alignment: 9
+      pivot: {x: .933668196, y: .572749674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-BODY_POSE01
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1
+        width: 433
+        height: 832
+      alignment: 9
+      pivot: {x: .510664403, y: .155575752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-BODY_POSE02
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 8
+        width: 551
+        height: 661
+      alignment: 9
+      pivot: {x: .771774054, y: .0553574488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-ARM-up
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 474
+        width: 362
+        height: 139
+      alignment: 9
+      pivot: {x: .195846811, y: .499999553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-HAND01
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 458
+        width: 194
+        height: 202
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOE-HAND02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 125
+        width: 208
+        height: 161
+      alignment: 9
+      pivot: {x: .899708152, y: .262738258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
